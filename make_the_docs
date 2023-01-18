@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#(cd source/tutorials/
+#make)
+
+make html
