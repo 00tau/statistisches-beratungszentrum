@@ -1,3 +1,6 @@
+Statistisches Beratungszentrum Dr. Möbius
+-----------------------------------------
+
 Sie suchen statistische Beratung, Coachings, ein- bis zweitägige
 Inhouse-Seminare zu statistischen Themen oder Problemstellungen? Ich
 mache das für Sie. Mein Name ist Dr. Thomas Möbius. Ich bin

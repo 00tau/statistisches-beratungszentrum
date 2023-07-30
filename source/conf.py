@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Statistikberatung'
+project = 'Statistisches Beratungszentrum Dr. Möbius'
 copyright = '2022, Dr. Thomas W. D. Möbius'
 author = 'Dr. Thomas W. D. Möbius'
 
@@ -83,7 +83,7 @@ html_theme_options = {
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_title = u'Statistisches Beratungszentrum Möbius'
+html_title = u'Statistisches Beratungszentrum Dr. Möbius'
 html_show_sourcelink = False
 html_show_sphinx = False
 
